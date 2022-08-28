@@ -27,7 +27,8 @@ button {
     font-size: 20px;
 }
 
-footer {
-    display: block;
+label, input {
     color: white;
+    font-size: 20px;
+
 }
